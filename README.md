@@ -7,6 +7,7 @@ Alex started learning to program in the 80s in an era of classic home computers 
 You can find me in the following places:
 
 * [Homepage](https://www.bennee.com/~alex)
+* [Mastodon](https://mastodon.org.uk/@stsquad)
 * [GitLab](https://gitlab.com/stsquad)
 * [Linaro Blog Posts](https://www.linaro.org/author/alex-bennee/)
 
