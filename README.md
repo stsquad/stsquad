@@ -9,7 +9,6 @@ You can find me in the following places:
 * [Homepage](https://www.bennee.com/~alex)
 * [Mastodon](https://mastodon.org.uk/@stsquad)
 * [GitLab](https://gitlab.com/stsquad)
-* [Linaro Blog Posts](https://www.linaro.org/author/alex-bennee/)
 
 <!--
 **stsquad/stsquad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
